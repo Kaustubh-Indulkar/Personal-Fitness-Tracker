@@ -44,12 +44,8 @@ http://127.0.0.1:5000/
 🔸 AI-powered meal planning and fitness coaching
 🔸 Gamification & social features
 
-📜 License
-This project is open-source and available under the MIT License.
-
 🔗 Connect with Me
-📧 Email: your.email@example.com
-🔗 LinkedIn: Your Profile
+📧 Email: kaustubhindulkar98@gmail.com
 🌟 If you like this project, don't forget to star ⭐ the repository!
 
 📢 Hashtags
