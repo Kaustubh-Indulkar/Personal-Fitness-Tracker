@@ -1,20 +1,20 @@
 ﻿# Personal-Fitness-Tracker
 
-🚀 Features
-✅ Workout & Meal Logging – Track exercises, food intake, and calories.
-✅ Weight Tracking – Record daily weight and set fitness goals.
-✅ Machine Learning-Based Recommendations – Get suggested calorie intake based on progress.
-✅ CSV Data Storage – No database required, ensuring local data privacy.
+🚀 Features<br>
+✅ Workout & Meal Logging – Track exercises, food intake, and calories.<br>
+✅ Weight Tracking – Record daily weight and set fitness goals.<br>
+✅ Machine Learning-Based Recommendations – Get suggested calorie intake based on progress.<br>
+✅ CSV Data Storage – No database required, ensuring local data privacy.<br>
 ✅ User-Friendly Web Interface – Simple and intuitive UI for easy tracking.<br>
 
-🛠️ Tech Stack
-🔹 Python (Flask, Pandas, NumPy)
-🔹 Machine Learning (Scikit-Learn - Linear Regression)
-🔹 Web Development (HTML, CSS, JavaScript)
-🔹 Data Visualization (Matplotlib)
+🛠️ Tech Stack<br>
+🔹 Python (Flask, Pandas, NumPy)<br>
+🔹 Machine Learning (Scikit-Learn - Linear Regression)<br>
+🔹 Web Development (HTML, CSS, JavaScript)<br>
+🔹 Data Visualization (Matplotlib)<br>
 🔹 CSV-based Storage<br>
 
-📌 Installation & Setup
+📌 Installation & Setup<br>
 Clone this repository:
 bash
 Copy
@@ -37,16 +37,16 @@ Copy
 Edit
 http://127.0.0.1:5000/<br>
 
-📅 Future Enhancements
-🔸 Integration with wearable devices (Fitbit, Apple Watch)
-🔸 Mobile App version (Android/iOS)
-🔸 Cloud-based database support
-🔸 AI-powered meal planning and fitness coaching
+📅 Future Enhancements<br>
+🔸 Integration with wearable devices (Fitbit, Apple Watch)<br>
+🔸 Mobile App version (Android/iOS)<br>
+🔸 Cloud-based database support<br>
+🔸 AI-powered meal planning and fitness coaching<br>
 🔸 Gamification & social features<br>
 
 🔗 Connect with Me
-📧 Email: kaustubhindulkar98@gmail.com
+📧 Email: kaustubhindulkar98@gmail.com<br>
 🌟 If you like this project, don't forget to star ⭐ the repository!<br>
 
-📢 Hashtags
+📢 Hashtags<br>
 #Python #MachineLearning #Flask #FitnessTracker #AI #DataScience #HealthTech #Workout #CalorieTracker #OpenSource
