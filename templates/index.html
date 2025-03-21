@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fitness Tracker</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <h1>🏋️‍♂️ Personal Fitness Tracker</h1>
+
+    <div class="container">
+        <h2>Log Workout</h2>
+        <input type="text" id="exercise" placeholder="Exercise Name">
+        <input type="number" id="duration" placeholder="Duration (mins)">
+        <input type="number" id="workout_calories" placeholder="Calories Burned">
+        <button onclick="logWorkout()">Log Workout</button>
+
+        <h2>Log Meal</h2>
+        <input type="text" id="food" placeholder="Food Name">
+        <input type="number" id="meal_calories" placeholder="Calories Consumed">
+        <button onclick="logMeal()">Log Meal</button>
+
+        <h2>Track Weight</h2>
+        <input type="number" id="weight" placeholder="Current Weight (kg)">
+        <input type="number" id="goal_weight" placeholder="Goal Weight (kg)">
+        <button onclick="logWeight()">Log Weight</button>
+
+        <h2>View Log</h2>
+        <button onclick="viewLog()">Show Fitness Log</button>
+        <pre id="logOutput"></pre>
+    </div>
+
+    <script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html>
